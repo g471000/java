@@ -1,4 +1,4 @@
-package _01hello;
+package introduction;
 
 /**
  * 
@@ -8,7 +8,7 @@ package _01hello;
  * @version Feb 19, 2018 4:08:13 AM
  *
  */
-public class Solution {
+public class _01HelloWorld {
 	/**
 	 * @param args
 	 */
