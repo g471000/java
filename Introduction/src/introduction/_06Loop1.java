@@ -3,7 +3,6 @@ package introduction;
 import java.util.Scanner;
 
 /**
- * Print out multiplication with input number with 1 to 10.
  * 
  * @author g471000
  *
